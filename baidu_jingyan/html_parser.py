@@ -9,6 +9,14 @@ def parse_section(section):
     # Find all step items
     step_items = section.find_all('li', class_='exp-content-list')
     # print("Step items:", len(step_items))
+    if len(step_items) == 0:
+        step_dict = dict(
+            text=section.text.strip(),
+            image_url=None
+        )
+        steps.append(step_dict)
+        return steps
+    
     for item in step_items:
         step_dict = {}
         
@@ -29,6 +37,7 @@ def parse_section(section):
             step_dict['image_url'] = step_image['data-src']
         steps.append(step_dict)
     return steps
+
 def parse_baidu_jingyan(html):
     soup = BeautifulSoup(html, 'html.parser')
     # print("Preview HTML", html[:1000])

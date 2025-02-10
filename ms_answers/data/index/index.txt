@@ -1,0 +1,8 @@
+msoffice
+officeinsider
+microsoftedge
+msteams
+outlook_com
+skype
+surface
+windows

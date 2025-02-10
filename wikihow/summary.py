@@ -29,9 +29,16 @@ with open("data/index/index.txt", "r") as f:
 print(urls)
 output = []
 for url in tqdm(urls):
+    title = url[url.find("Category:")+9:]
+    if os.path.exists(f"data/summary/{title}.json"):
+        with open(f"data/summary/{title}.json", "r") as f:
+            data = json.load(f)
+
+        print(f"Skip {title} because it has already been crawled, {len(data)} items")
+        continue
     driver.get(url)
     time.sleep(1)
-
+    
     next_page = True
     while next_page:
         html = driver.page_source
@@ -40,6 +47,7 @@ for url in tqdm(urls):
         summary_list = soup.find('div', id='cat_all')
         if summary_list is None:
             print(f"No summary list found for {url}")
+            next_page = False
             continue
 
         summary_items = summary_list.find_all('div', class_='responsive_thumb')
@@ -73,5 +81,5 @@ for url in tqdm(urls):
         time.sleep(2)  # Wait for page load
     
         
-with open("data/summary/summary.json", "w") as f:
-    json.dump(output, f, indent=4, ensure_ascii=False)
+    with open(f"data/summary/{title}.json", "w") as f:
+        json.dump(output, f, indent=4, ensure_ascii=False)

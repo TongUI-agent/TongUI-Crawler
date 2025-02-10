@@ -1,2 +1,7 @@
 baidu_jingyan/data
 baidu_jingyan/wandb
+wikihow/data
+wikihow/wandb
+analysis/sam/sam2
+common_crawl
+*.zip

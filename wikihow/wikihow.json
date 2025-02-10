@@ -1,0 +1,135 @@
+{
+    "introduction": "CategoriesComputers and ElectronicsSoftwareHow to Make an Exe File",
+    "sections": [
+        {
+            "headline": "Creating an EXE File",
+            "steps": [
+                {
+                    "text": "Open Start . Click the Windows logo in the bottom-left corner of the screen.[1]\nX\nTrustworthy Source\nMicrosoft Support\nTechnical support and product information from Microsoft.\nGo to source",
+                    "image_src": "https://www.wikihow.com/images/thumb/4/47/Make-an-Exe-File-Step-1-Version-3.jpg/v4-460px-Make-an-Exe-File-Step-1-Version-3.jpg"
+                },
+                {
+                    "text": "Type notepad into Start. This will search your computer for the Notepad app.[2]\nX\nTrustworthy Source\nMicrosoft Support\nTechnical support and product information from Microsoft.\nGo to source",
+                    "image_src": "https://www.wikihow.com/images/thumb/a/a6/Make-an-Exe-File-Step-2-Version-4.jpg/v4-460px-Make-an-Exe-File-Step-2-Version-4.jpg"
+                },
+                {
+                    "text": "Click Notepad. It's a blue-and-white, notebook-shaped icon at the top of the Start window.",
+                    "image_src": "https://www.wikihow.com/images/thumb/c/c1/Make-an-Exe-File-Step-3-Version-4.jpg/v4-460px-Make-an-Exe-File-Step-3-Version-4.jpg"
+                },
+                {
+                    "text": "Enter your EXE's program code. Type in the code one line at a time, or copy and paste it into the Notepad document if you already have it typed out somewhere else on your computer.\n\nIf you don't know how to code, you may want to have someone else perform this step for you.\nYou can also find EXE file code for basic programs online.",
+                    "image_src": "https://www.wikihow.com/images/thumb/2/2a/Make-an-Exe-File-Step-4-Version-4.jpg/v4-460px-Make-an-Exe-File-Step-4-Version-4.jpg"
+                },
+                {
+                    "text": "Click File. This option is in the top-left corner of the Notepad window. Doing so prompts a drop-down menu.",
+                    "image_src": "https://www.wikihow.com/images/thumb/a/a9/Make-an-Exe-File-Step-5-Version-4.jpg/v4-460px-Make-an-Exe-File-Step-5-Version-4.jpg"
+                },
+                {
+                    "text": "Click Save As…. It's in the File drop-down menu.",
+                    "image_src": "https://www.wikihow.com/images/thumb/5/56/Make-an-Exe-File-Step-6-Version-4.jpg/v4-460px-Make-an-Exe-File-Step-6-Version-4.jpg"
+                },
+                {
+                    "text": "Click the \"Save as type\" drop-down box. You'll find this near the bottom of the window.\nThe current \"Save as type\" drop-down box should read Text Documents (*.txt).",
+                    "image_src": "https://www.wikihow.com/images/thumb/b/bf/Make-an-Exe-File-Step-7-Version-4.jpg/v4-460px-Make-an-Exe-File-Step-7-Version-4.jpg"
+                },
+                {
+                    "text": "Click All files. It's in the drop-down box.",
+                    "image_src": "https://www.wikihow.com/images/thumb/d/dd/Make-an-Exe-File-Step-8-Version-4.jpg/v4-460px-Make-an-Exe-File-Step-8-Version-4.jpg"
+                },
+                {
+                    "text": "Enter a name for your EXE file. In the \"File name\" text box, type in a name followed by .exe. This will save your file as an EXE.\nFor example, to name the EXE file \"bananas\", you would type in bananas.exe.",
+                    "image_src": "https://www.wikihow.com/images/thumb/8/8b/Make-an-Exe-File-Step-9-Version-3.jpg/v4-460px-Make-an-Exe-File-Step-9-Version-3.jpg"
+                },
+                {
+                    "text": "Select a save location. Click a folder on the left side of the window to select it as the place where your file will be saved.",
+                    "image_src": "https://www.wikihow.com/images/thumb/c/ca/Make-an-Exe-File-Step-10-Version-4.jpg/v4-460px-Make-an-Exe-File-Step-10-Version-4.jpg"
+                },
+                {
+                    "text": "Click Save. It's in the bottom-right corner of the screen. This will save your EXE file in your selected location under the specified name.",
+                    "image_src": "https://www.wikihow.com/images/thumb/1/19/Make-an-Exe-File-Step-11-Version-2.jpg/v4-460px-Make-an-Exe-File-Step-11-Version-2.jpg"
+                }
+            ]
+        },
+        {
+            "headline": "Creating an EXE Installer",
+            "steps": [
+                {
+                    "text": "Open Start . Click the Windows logo in the bottom-left corner of the screen.",
+                    "image_src": "https://www.wikihow.com/images/thumb/4/4a/Make-an-Exe-File-Step-12-Version-2.jpg/v4-460px-Make-an-Exe-File-Step-12-Version-2.jpg"
+                },
+                {
+                    "text": "Type iexpress into Start. This will search for the iexpress command.[3]\nX\nResearch source\n\n\n\n\nYou have to fully type out iexpress in order for iexpress to appear.",
+                    "image_src": "https://www.wikihow.com/images/thumb/2/2a/Make-an-Exe-File-Step-13-Version-2.jpg/v4-460px-Make-an-Exe-File-Step-13-Version-2.jpg"
+                },
+                {
+                    "text": "Click iexpress. It resembles a grey filing cabinet. You'll find this at the top of the Start window.[4]\nX\nResearch source",
+                    "image_src": "https://www.wikihow.com/images/thumb/9/9f/Make-an-Exe-File-Step-14-Version-2.jpg/v4-460px-Make-an-Exe-File-Step-14-Version-2.jpg"
+                },
+                {
+                    "text": "Check the \"Create new Self Extraction Directive file\" box. It's in the middle of the page. This option should be checked by default, but if it isn't, check it.",
+                    "image_src": "https://www.wikihow.com/images/thumb/5/5e/Make-an-Exe-File-Step-15-Version-2.jpg/v4-460px-Make-an-Exe-File-Step-15-Version-2.jpg"
+                },
+                {
+                    "text": "Click Next. This is in the bottom-right corner of the window.",
+                    "image_src": "https://www.wikihow.com/images/thumb/f/f2/Make-an-Exe-File-Step-16-Version-2.jpg/v4-460px-Make-an-Exe-File-Step-16-Version-2.jpg"
+                },
+                {
+                    "text": "Check the \"Extract files only\" box. It's in the middle of the page.",
+                    "image_src": "https://www.wikihow.com/images/thumb/3/38/Make-an-Exe-File-Step-17-Version-2.jpg/v4-460px-Make-an-Exe-File-Step-17-Version-2.jpg"
+                },
+                {
+                    "text": "Click Next.",
+                    "image_src": "https://www.wikihow.com/images/thumb/4/48/Make-an-Exe-File-Step-18-Version-2.jpg/v4-460px-Make-an-Exe-File-Step-18-Version-2.jpg"
+                },
+                {
+                    "text": "Enter a name for your EXE file. Type the file's name into the text field in the middle of the window, then click Next.",
+                    "image_src": "https://www.wikihow.com/images/thumb/b/b9/Make-an-Exe-File-Step-19-Version-2.jpg/v4-460px-Make-an-Exe-File-Step-19-Version-2.jpg"
+                },
+                {
+                    "text": "Decide whether or not you want to use a text prompt. Click Next to skip using a text prompt, or check \"Prompt user with\" and then type a word or phrase into the text box before clicking Next.\nUsing a prompt will cause a window with your typed text to appear to the user of the EXE file.",
+                    "image_src": "https://www.wikihow.com/images/thumb/d/d4/Make-an-Exe-File-Step-20-Version-2.jpg/v4-460px-Make-an-Exe-File-Step-20-Version-2.jpg"
+                },
+                {
+                    "text": "Decide whether or not to use a license. If you don't want to show the EXE user a license agreement that they have to read and agree to, just click Next. If you want to use a license agreement, check the \"Display a license\" box, then click Browse, select a text document that contains the license agreement, and click Open. You'll have to click Next to proceed.",
+                    "image_src": "https://www.wikihow.com/images/thumb/b/b9/Make-an-Exe-File-Step-21-Version-2.jpg/v4-460px-Make-an-Exe-File-Step-21-Version-2.jpg"
+                },
+                {
+                    "text": "Click Add. It's below the box in the middle of the window. Doing so will open a new File Explorer window in which you can select files to add to your EXE installer.\nFiles that you add to the EXE installer will be installed for whoever opens the EXE installer.",
+                    "image_src": "https://www.wikihow.com/images/thumb/0/00/Make-an-Exe-File-Step-22-Version-2.jpg/v4-460px-Make-an-Exe-File-Step-22-Version-2.jpg"
+                },
+                {
+                    "text": "Select files to add. Click a file location on the left side of the File Explorer window, then select files by clicking and dragging the mouse across a group of files you want to use.[5]\nX\nResearch source\n\n\n\n\nYou can also select files independently by holding Ctrl while clicking individual files.",
+                    "image_src": "https://www.wikihow.com/images/thumb/b/b1/Make-an-Exe-File-Step-23-Version-2.jpg/v4-460px-Make-an-Exe-File-Step-23-Version-2.jpg"
+                },
+                {
+                    "text": "Click Open. It's in the bottom-right corner of the window. Doing so adds your files to your EXE installer.\nYou can also add more files after this point by clicking Add again and then selecting more files to add.",
+                    "image_src": "https://www.wikihow.com/images/thumb/7/7e/Make-an-Exe-File-Step-24-Version-2.jpg/v4-460px-Make-an-Exe-File-Step-24-Version-2.jpg"
+                },
+                {
+                    "text": "Click Next.",
+                    "image_src": "https://www.wikihow.com/images/thumb/c/c2/Make-an-Exe-File-Step-25-Version-2.jpg/v4-460px-Make-an-Exe-File-Step-25-Version-2.jpg"
+                },
+                {
+                    "text": "Check the \"Default\" box, then click Next. This box is at the top of the window.",
+                    "image_src": "https://www.wikihow.com/images/thumb/2/28/Make-an-Exe-File-Step-26-Version-2.jpg/v4-460px-Make-an-Exe-File-Step-26-Version-2.jpg"
+                },
+                {
+                    "text": "Decide whether or not to include a final message. Once your EXE installer finishes running, you can choose to display a message for the user. To do so, check the \"Display message\" box, type in the message you want to use, and click Next.\nIf you want to skip the final message, just click Next.",
+                    "image_src": "https://www.wikihow.com/images/thumb/b/b3/Make-an-Exe-File-Step-27-Version-2.jpg/v4-460px-Make-an-Exe-File-Step-27-Version-2.jpg"
+                },
+                {
+                    "text": "Add the program that you want to install. This is the EXE program that you created earlier. Click Browse, navigate to the file's location, click the file, and click Save.\nYou can also check the \"Hide File Extracting Process Animation from User\" box to ensure that the EXE installs without much visual input.",
+                    "image_src": "https://www.wikihow.com/images/thumb/a/a6/Make-an-Exe-File-Step-28-Version-2.jpg/v4-460px-Make-an-Exe-File-Step-28-Version-2.jpg"
+                },
+                {
+                    "text": "Click Next three times. This will create the EXE installer. Depending on how many files you're adding to the EXE installer, this process can take anywhere from a few seconds to a few minutes.",
+                    "image_src": "https://www.wikihow.com/images/thumb/3/3f/Make-an-Exe-File-Step-29-Version-2.jpg/v4-460px-Make-an-Exe-File-Step-29-Version-2.jpg"
+                },
+                {
+                    "text": "Click Finish. It's at the bottom of the window. Doing so will save the file. Your EXE installer is now ready for use.",
+                    "image_src": "https://www.wikihow.com/images/thumb/e/e1/Make-an-Exe-File-Step-30-Version-2.jpg/v4-460px-Make-an-Exe-File-Step-30-Version-2.jpg"
+                }
+            ]
+        }
+    ]
+}
